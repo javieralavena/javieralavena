@@ -10,3 +10,5 @@
 <li> <a href="https://www.linkedin.com/in/javiera-bel%C3%A9n-troncoso-aravena/"> LinkedIn </a> </li>
 <li> javierabta97@gmail.com </li>
 </ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javieralavena&layout=compact)](https://github.com/javieralavena/github-readme-stats)
