@@ -1,11 +1,15 @@
 ## Hi there 👋 my name is Javiera Troncoso, i'm 25 year old, i'm from Chile, i'm an Industrial civil engineer and an Junior Front-End web developer.
 
+SKILLS:
+
+
 <!--
 **javieralavena/javieralavena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
